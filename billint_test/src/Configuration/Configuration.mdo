@@ -43,4 +43,5 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Организации</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
+  <documents>Document.РасходнаяНакладная</documents>
 </mdclass:Configuration>
