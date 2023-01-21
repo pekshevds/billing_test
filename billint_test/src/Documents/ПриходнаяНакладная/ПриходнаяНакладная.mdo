@@ -40,6 +40,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="898cfa64-8260-4767-aa51-603072b484e4">
+    <name>Организация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Организация</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Организации</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="4f9dc877-f87e-4f1c-ba51-e1aa3eb992fb">
     <producedTypes>
       <objectType typeId="471baa32-f5dd-4ab4-b1b2-cc4e6b6faec7" valueTypeId="29002d88-80c2-4082-960c-2723cfe658ac"/>
