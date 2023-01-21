@@ -50,20 +50,6 @@
       <key>ru</key>
       <value>Товары</value>
     </synonym>
-    <attributes uuid="45c8cec0-bc18-42cb-9cd7-fa07b42ed5c7">
-      <name>Контрагент</name>
-      <synonym>
-        <key>ru</key>
-        <value>Контрагент</value>
-      </synonym>
-      <type>
-        <types>CatalogRef.Контрагенты</types>
-      </type>
-      <minValue xsi:type="core:UndefinedValue"/>
-      <maxValue xsi:type="core:UndefinedValue"/>
-      <dataHistory>Use</dataHistory>
-      <fullTextSearch>Use</fullTextSearch>
-    </attributes>
     <attributes uuid="ec45ae84-c73c-4d8a-b875-e1b58cb7d3f4">
       <name>Номенклатура</name>
       <synonym>
