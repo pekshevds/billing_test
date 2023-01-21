@@ -41,4 +41,5 @@
   </languages>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.ПриходнаяНакладная</documents>
 </mdclass:Configuration>
